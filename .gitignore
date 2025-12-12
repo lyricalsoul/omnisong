@@ -1,0 +1,18 @@
+training_annotated.txt
+training_plain.txt
+train.txt
+**/*.asd
+checkpoints
+*.pth
+.venv
+Archive.zip
+__MACOSX
+.DS_Store
+dist
+.idea
+build
+OmnisongIcon.icon
+__pycache__
+logs
+# training stuff is too meessy
+gen_dataset.py
